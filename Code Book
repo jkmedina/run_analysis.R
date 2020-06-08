@@ -1,0 +1,10 @@
+## This Codebook is to describe all the the variables in order to help the reader to understand my code better
+
+## mergedata: Merges the training and the test sets to create one data set.
+## mean: mean for each measurement. 
+## sd: standard deviation for each measurement. 
+## trainpluslabel: bind activity_labels to the train data set
+## testpluslabel: bind activity_labels to the test data set
+## featuresnames: the names for all the features to be assigned to onedataset
+## onedataset: This is the data frame that contains all the data
+## subject: Each row identifies the subject who performed the activity for each window sample. Its range is from 1 to 30. 
